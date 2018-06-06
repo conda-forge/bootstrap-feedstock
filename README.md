@@ -15,12 +15,15 @@ Sleek, intuitive, and powerful front-end framework for faster and easier web dev
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/bootstrap-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/bootstrap-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/bootstrap-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/bootstrap-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/bootstrap/badges/version.svg)](https://anaconda.org/conda-forge/bootstrap)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/bootstrap/badges/downloads.svg)](https://anaconda.org/conda-forge/bootstrap)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-bootstrap-green.svg)](https://anaconda.org/conda-forge/bootstrap) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/bootstrap.svg)](https://anaconda.org/conda-forge/bootstrap) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/bootstrap.svg)](https://anaconda.org/conda-forge/bootstrap) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/bootstrap.svg)](https://anaconda.org/conda-forge/bootstrap) |
 
 Installing bootstrap
 ====================
