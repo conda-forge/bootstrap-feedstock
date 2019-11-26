@@ -1,6 +1,6 @@
 {% set name = "bootstrap" %}
-{% set version = "4.3.1" %}
-{% set sha256 = "e4b42d13e95246cff4109c06624c11f67e53f9cd16926981365a90b29f35f4ea" %}
+{% set version = "4.4.0" %}
+{% set sha256 = "c0bf23677a901df25ebff3c9140a6f741b521faa5e07152df7bc1b70aa53efd8" %}
 
 package:
   name: {{ name|lower }}
