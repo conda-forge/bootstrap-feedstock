@@ -1,6 +1,6 @@
 {% set name = "bootstrap" %}
-{% set version = "4.4.1" %}
-{% set sha256 = "2dad70ebab9f158b758d0245b6cff498d6c2b66c03c111af93c71c3a45aa0828" %}
+{% set version = "4.5.1" %}
+{% set sha256 = "2e1a8bd1f831ef4d3acddc70b0261f9724495e5e14c3c966b1e9b2ac952273cc" %}
 
 package:
   name: {{ name|lower }}
@@ -20,21 +20,21 @@ build:
 requirements:
   build:
     - nodejs
-  
-    
+
+
 test:
   commands:
     - npm list -g bootstrap
   requires:
     - nodejs
-   
+
 
 about:
   home: https://github.com/twbs/bootstrap
   license: MIT
   license_family: MIT
   license_file: LICENSE
-  summary: 'The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.'
+  summary: The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
   description: |
     Sleek, intuitive, and powerful front-end framework for faster and easier web development.  
   doc_url: https://bootstrapdocs.com/
