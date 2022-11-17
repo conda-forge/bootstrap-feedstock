@@ -5,7 +5,7 @@ Home: https://github.com/twbs/bootstrap
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
